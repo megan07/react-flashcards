@@ -1,6 +1,6 @@
 This is my first React app.  I learned a lot and really enjoyed it!
 
-====================================================================================================
+==========================================================================================
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
